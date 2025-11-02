@@ -50,7 +50,7 @@ Tools we may use:
 ## 👥 Team Members
 - **Shola**
 - **Abibat**
-- **Mohammed**
+- **Muhammad**
 
 
 ---
